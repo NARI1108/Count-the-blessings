@@ -41,14 +41,8 @@
            Getting to know TextViews and their features
      </li>      
      <li>
-           Add voice typing to the program
-     </li>       
-     <li>
-           Familiarity with sending information between activities
-     </li>   
-     <li>
-           Learning how to style EditTexts
-     </li>
+           Getting to know Toast and its structure
+     </li>      
 </ul>
 
    <div align="center">
