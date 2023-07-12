@@ -24,6 +24,33 @@
           
    </ul>
 
+   <code><strong>The purpose of making this application is to familiarize with the following:</strong></code>
+
+
+<ul>
+    <li>
+           Material Design training (making a drop-down menuNavigationDrawer)
+    </li>  
+     <li>
+           Learning how to work with phone vibration in Java language
+     </li>     
+     <li>
+           How to make a Timer in Android Studio
+     </li> 
+     <li>
+           Learning how to create random numbers in Java
+     </li>      
+     <li>
+           Add voice typing to the program
+     </li>       
+     <li>
+           Familiarity with sending information between activities
+     </li>   
+     <li>
+           Learning how to style EditTexts
+     </li>
+</ul>
+
    <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&color=F38F02&center=true&vCenter=true&width=300&height=50&lines=Thanks+for+your+visit!;Have+a+nice+day!;" alt="Footer"></img>
   </div>
