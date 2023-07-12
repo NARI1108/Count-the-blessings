@@ -35,7 +35,7 @@
           Learning LinearLayout and RelativeLayout and changing the background of the application
      </li>     
      <li>
-           How to make a Timer in Android Studio
+           Getting to know Buttons and their features
      </li> 
      <li>
            Learning how to create random numbers in Java
