@@ -38,7 +38,7 @@
            Getting to know Buttons and their features
      </li> 
      <li>
-           Learning how to create random numbers in Java
+           Getting to know TextViews and their features
      </li>      
      <li>
            Add voice typing to the program
