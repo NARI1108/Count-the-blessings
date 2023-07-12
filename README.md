@@ -29,10 +29,10 @@
 
 <ul>
     <li>
-           Material Design training (making a drop-down menuNavigationDrawer)
+          Getting to know the concept of Activity and layouts
     </li>  
      <li>
-           Learning how to work with phone vibration in Java language
+          Learning LinearLayout and RelativeLayout and changing the background of the application
      </li>     
      <li>
            How to make a Timer in Android Studio
