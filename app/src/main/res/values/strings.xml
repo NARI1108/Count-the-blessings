@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Count the blessings</string>
+    <string name="blessing">صلوات</string>
+    <string name="reset">ریست</string>
+    <string name="Zero">0</string>
 </resources>
