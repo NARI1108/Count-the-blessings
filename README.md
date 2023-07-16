@@ -15,7 +15,7 @@
 
 ## <code><strong>About App</strong></code> ##
 
-
+Our program is actually to count the number of blessings. It is a program with a simple graphic environment.
   
 ## <img align="left" alt="GIF" height="50px" src="https://www.toptimenet.com/images/setting.gif"/>
   
