@@ -15,7 +15,9 @@
         android:text="@string/blessing"
         android:textStyle="bold"
         android:textSize="21sp"
-        android:layout_marginTop="600dp"
+        android:textColor="@color/black"
+        android:background="@drawable/button_style"
+        android:layout_marginTop="700dp"
         android:layout_marginStart="210dp"/>
     <Button
         android:id="@+id/btn_reset"
@@ -24,17 +26,19 @@
         android:text="@string/reset"
         android:textStyle="bold"
         android:textSize="21sp"
-        android:layout_marginTop="600dp"
+        android:textColor="@color/black"
+        android:background="@drawable/button_style"
+        android:layout_marginTop="700dp"
         android:layout_marginStart="20dp"/>
     <TextView
         android:id="@+id/txt_count"
-        android:layout_width="100dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/Zero"
         android:textSize="100sp"
         android:textStyle="bold"
         android:textColor="@color/black"
-        android:gravity="center"
+        android:gravity="left"
         android:layout_marginTop="400dp"
         android:layout_marginStart="30dp"/>
 </RelativeLayout>
