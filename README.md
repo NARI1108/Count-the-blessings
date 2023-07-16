@@ -5,7 +5,7 @@
 
 </h3>
 
-## ✨Cont Blessings Vidoe
+## ✨Count Blessings Vidoe
 
 [Blessing Count.zip](https://github.com/NARI1108/Count-the-blessings/files/12065037/Blessing.Count.zip)
 
